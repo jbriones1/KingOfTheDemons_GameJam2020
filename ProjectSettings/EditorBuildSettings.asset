@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/dev_richardL_UI.unity
+    guid: 15d8e6ab86b9e6546ac320896470d14b
+  - enabled: 0
+    path: Assets/Scenes/dev_richardL.unity
+    guid: f7c5ee45681cf154eb45469cd223d1e8
+  - enabled: 0
+    path: Assets/Scenes/dev_daniel.unity
+    guid: 4bbc6c662b4c99d48ada1b414d27e855
+  - enabled: 0
+    path: Assets/Scenes/dev_richardVCAD.unity
+    guid: 1f0bef7c6e0d93f489d63c6c07968c21
+  - enabled: 1
+    path: Assets/Scenes/start_screen.unity
+    guid: e7f9619a2dce0f44889c9e7d67f8fc98
+  - enabled: 1
+    path: Assets/Scenes/real_master.unity
+    guid: cb1fe14f8d75e924f989eb4261592dd0
+  - enabled: 1
+    path: Assets/Scenes/win_screen_jason.unity
+    guid: 8407df878b2103e43aef3efffc2f70f7
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 1456881c88542994da7c167cc59d36af,
+      type: 2}

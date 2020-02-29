@@ -1,0 +1,30 @@
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP connect to 64.227.53.152:1666 failed.\nconnect: 64.227.53.152:1666: WSAENETUNREACH\n
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+p1:-1 0 Change 80 created with 1 open file(s).
+p1:-1 0 Submitting change 80.
+p1:-1 0 //depot/gamejam2020/ProjectSettings/TagManager.asset - must resolve before submitting
+p1:-1 0 //depot/gamejam2020/ProjectSettings/TagManager.asset - must resolve #3,#6
+Out of date files must be resolved or reverted.
+Submit failed -- fix problems above then use 'p4 submit -c 80'.
+
+e1:Out of date files must be resolved or reverted.\nSubmit failed -- fix problems above then use 'p4 submit -c 80'.\n
+p1:-1 0 Change 85 created with 1 open file(s).
+p1:-1 0 Submitting change 85.
+p1:-1 0 //depot/gamejam2020/ProjectSettings/TagManager.asset - must resolve before submitting
+p1:-1 0 //depot/gamejam2020/ProjectSettings/TagManager.asset - must resolve #3,#6
+Out of date files must be resolved or reverted.
+Submit failed -- fix problems above then use 'p4 submit -c 85'.
+
+e1:Out of date files must be resolved or reverted.\nSubmit failed -- fix problems above then use 'p4 submit -c 85'.\n
+p1:-1 0 Change 91 created with 1 open file(s).
+p1:-1 0 Submitting change 91.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //depot/gamejam2020/ProjectSettings/TagManager.asset#8
+p1:-1 0 Change 91 submitted.
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
